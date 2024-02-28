@@ -1,8 +1,19 @@
-div {
-    width: auto;
-    text-align: left;
-    padding: 15px;
+:root {
+    --font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+header {
+    font-family: var(--font-family);
+    font-weight: strong;
+    text-align: /*relative to image*/;
+    color: darkgoldenrod
+}
+
+h2 {
+    font-weight: ;
+    color: darkred
+}
+
 
 img {
  max-width: 25%;
