@@ -1,0 +1,10 @@
+div {
+    width: auto;
+    text-align: left;
+    padding: 15px;
+}
+
+img {
+ max-width: 25%;
+ height: auto; 
+}
